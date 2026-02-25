@@ -1,4 +1,4 @@
-# 顏宥庭 | Personal Portfolio
+# Jody | Personal Portfolio
 
 A sleek, modern, and minimalistic personal portfolio website, inspired by the Hostinger Adelina template.
 
